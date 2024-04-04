@@ -22,4 +22,5 @@ My team and I have previously worked on developing an iOS application for a Horr
 
 # Demo
 
+https://github.com/Olga039/Horror-Story/assets/147190274/f7f3fd34-8ffd-460a-b4a6-86a27b477178
 
